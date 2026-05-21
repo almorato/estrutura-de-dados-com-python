@@ -1,6 +1,6 @@
 title: "Estrutura de Dados com Python"
 description: "Curso prático de estruturas de dados para quem já conhece Python básico"
-theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
 lang: pt-BR
 
 nav_sort: case_sensitive
